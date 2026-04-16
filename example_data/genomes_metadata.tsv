@@ -1,0 +1,8 @@
+genome	activity	backbone_position
+strain_pos_ref	positive	0
+strain_pos_2	positive	1
+strain_pos_3	positive	2
+strain_pos_4	positive	3
+strain_neg_1	negative	4
+strain_neg_2	negative	5
+strain_neg_3	negative	6
