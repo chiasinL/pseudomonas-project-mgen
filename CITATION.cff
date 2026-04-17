@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+type: software
+authors:
+  - family-names: "Dahal"
+    given-names: "Shilu"
+    orcid: "https://orcid.org/0000-0003-0057-7953"
+  - family-names: "Liew"
+    given-names: "Chia Sin"
+    orcid: "https://orcid.org/0000-0003-0944-6423"
+  - family-names: "Riethoven"
+    given-names: "Jean-Jack"
+  - family-names: "Rojas"
+    given-names: "Clemencia M."
+title: "Comparative genomics approaches to identify genomic regions associated with the antimicrobial activity of Pseudomonas protegens PBL3"
+abstract: "Analysis code accompanying the manuscript submitted to Microbial Genomics.
+  Implements post-processing pipelines for anvi'o pangenomics and progressiveMauve
+  whole-genome alignment to identify genes and genomic regions present in all
+  positive-group genomes but absent from all negative-group genomes."
+version: 1.0.0
+date-released: 2026-04-16
+doi: 10.5281/zenodo.19617017
+url: "https://github.com/chiasinL/pseudomonas-project-mgen"
+repository-code: "https://github.com/chiasinL/pseudomonas-project-mgen"
+license: MIT
+keywords:
+  - comparative genomics
+  - Pseudomonas protegens PBL3
+  - B. glumae control
+  - genome mining
+  - antimicrobial gene clusters
+  - secondary metabolites
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Dahal"
+      given-names: "Shilu"
+      orcid: "https://orcid.org/0000-0003-0057-7953"
+    - family-names: "Liew"
+      given-names: "Chia Sin"
+      orcid: "https://orcid.org/0000-0003-0944-6423"
+    - family-names: "Riethoven"
+      given-names: "Jean-Jack"
+    - family-names: "Rojas"
+      given-names: "Clemencia M."
+  title: "Comparative genomics approaches to identify genomic regions associated with the antimicrobial activity of Pseudomonas protegens PBL3"
+  journal: "Microbial Genomics"
+  year: 2026
