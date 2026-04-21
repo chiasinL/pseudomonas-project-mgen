@@ -128,4 +128,4 @@ python make_dummy_data.py
 
 ## AI assistance
 
-Code in this repository was developed with assistance from Claude Code (Anthropic, claude-sonnet-4-6), used for code refactoring, documentation, and repository organization.
+Code in this repository was developed with assistance from Claude Code (Anthropic, claude-sonnet-4-6), used specifically for code refactoring, documentation, and repository organization.
